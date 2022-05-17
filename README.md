@@ -1,1 +1,1 @@
-# javaKonzol
+Szabó Ádám Erik
